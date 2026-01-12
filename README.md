@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ryan-DPC/Ryan-DPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ryan! 👋
 
-Here are some ideas to get you started:
+### I am currently studying for my **Federal VET Diploma in Information Technology**<br>(CFC Informatique/Développement).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ryan-DPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ryan's GitHub Stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-DPC&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+
+</div>
