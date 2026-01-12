@@ -10,10 +10,6 @@
 
 <br>
 
-![Ryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryan-DPC&theme=tokyonight&hide_border=true)
-
-<br>
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryan-DPC&theme=tokyonight)
 
 </div>
