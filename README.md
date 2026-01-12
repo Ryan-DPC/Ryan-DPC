@@ -6,10 +6,14 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryan-DPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ryan's GitHub Stats" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-DPC&theme=tokyonight)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-DPC&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+![Ryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryan-DPC&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryan-DPC&theme=tokyonight)
 
 </div>
